@@ -8,17 +8,17 @@
 
 A complete weather app
 
-use this source code in your project(API) 
+Use this source code in your project
 
  Rate me ⭐
 
-thank you ☺
+Thank you ☺
 
 
 
 ## Platform
 
-android ✔️
+Android ✔️
 
 
 
