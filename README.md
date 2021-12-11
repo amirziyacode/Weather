@@ -21,6 +21,9 @@ Thank you ☺
 Android ✔️
 
 
+## Preview
+![weather](https://s4.uupload.ir/files/weather_k5iw.gif)
+
 
 ## Development Setup
 Clone the repository and run the following commands:
