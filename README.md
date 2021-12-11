@@ -1,6 +1,34 @@
-# weather
+![Halloween](https://media.wired.co.uk/photos/606dba1c9a15f73a597a2aa1/master/w_1600%2Cc_limit/weather.jpg)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
 
-A new Flutter project.
+
+
+# weather 🌡
+
+A complete weather app
+
+use this source code in your project(API) 
+
+ Rate me ⭐
+
+thank you ☺
+
+
+
+## Platform
+
+android ✔️
+
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
+
 
 ## Getting Started
 
