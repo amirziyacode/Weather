@@ -25,6 +25,13 @@ Android ✔️
 ![weather](https://s4.uupload.ir/files/weather_k5iw.gif)
 
 
+##About 
+
+- Work  it with API
+- Finde weather by your Location
+- Search weather by your city
+
+
 ## Development Setup
 Clone the repository and run the following commands:
 ```
